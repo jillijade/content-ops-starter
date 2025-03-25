@@ -11,16 +11,7 @@ sections:
     text: >
       I channel my curiosity about human behavior into empathetic, accessible
       designs that resonate with users.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
