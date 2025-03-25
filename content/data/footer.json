@@ -68,7 +68,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/mailto:jillijade@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
