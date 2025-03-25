@@ -18,7 +18,8 @@
             "iconPosition": "left",
             "style": "primary",
             "type": "Link",
-            "altText": "Work"
+            "altText": "Work",
+            "showIcon": false
         },
         {
             "label": "About Me",
