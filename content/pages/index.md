@@ -10,9 +10,7 @@ sections:
     subtitle: >-
       I channel my curiosity about human behavior into empathetic, accessible
       designs that resonate with users.
-    text: >
-      I channel my curiosity about human behavior into empathetic, accessible
-      designs that resonate with users.
+    text: ''
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
