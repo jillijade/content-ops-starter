@@ -32,7 +32,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Case Studied
+      text: Case Studies
       color: text-primary
       styles:
         self:
