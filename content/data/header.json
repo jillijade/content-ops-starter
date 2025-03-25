@@ -22,7 +22,7 @@
         },
         {
             "label": "About",
-            "altText": "About",
+            "altText": "About Me",
             "url": "/aboutme",
             "icon": "arrowRight",
             "iconPosition": "right",
