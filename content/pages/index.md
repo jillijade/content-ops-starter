@@ -7,7 +7,9 @@ sections:
       text: I love solving other people's problems.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      I channel my curiosity about human behavior into empathetic, accessible
+      designs that resonate with users.
     text: >
       I channel my curiosity about human behavior into empathetic, accessible
       designs that resonate with users.
