@@ -12,15 +12,6 @@ sections:
       I channel my curiosity about human behavior into empathetic, accessible
       designs that resonate with users.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
