@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: I remove barriers between users and their goals.
+      text: I love solving otther people's problems.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
