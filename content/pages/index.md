@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hi. I'm Jillian. I like solving other people's problems.
+      text: I love solving other people's problems.
       color: text-dark
       type: TitleBlock
     subtitle: >-
