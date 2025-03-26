@@ -8,8 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      I channel my curiosity about human behavior into empathetic, accessible
-      designs that resonate with users.
+      Through human-centred design, I channel my curiosity about human behavior
+      into empathetic, accessible designs that resonate with users.
     text: ''
     actions: []
     media:
